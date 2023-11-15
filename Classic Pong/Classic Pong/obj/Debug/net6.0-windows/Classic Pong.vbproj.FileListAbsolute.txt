@@ -1,0 +1,18 @@
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\obj\Debug\net6.0-windows\Classic Pong.vbproj.AssemblyReference.cache
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\obj\Debug\net6.0-windows\Classic_Pong.frmGame.resources
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\obj\Debug\net6.0-windows\Classic_Pong.Resources.resources
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\obj\Debug\net6.0-windows\Classic Pong.vbproj.GenerateResource.cache
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\obj\Debug\net6.0-windows\Classic Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\obj\Debug\net6.0-windows\Classic Pong.AssemblyInfoInputs.cache
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\obj\Debug\net6.0-windows\Classic Pong.AssemblyInfo.vb
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\obj\Debug\net6.0-windows\Classic Pong.vbproj.CoreCompileInputs.cache
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\bin\Debug\net6.0-windows\Classic Pong.exe
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\bin\Debug\net6.0-windows\Classic Pong.deps.json
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\bin\Debug\net6.0-windows\Classic Pong.runtimeconfig.json
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\bin\Debug\net6.0-windows\Classic Pong.dll
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\bin\Debug\net6.0-windows\Classic Pong.pdb
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\obj\Debug\net6.0-windows\Classic Pong.dll
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\obj\Debug\net6.0-windows\refint\Classic Pong.dll
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\obj\Debug\net6.0-windows\Classic Pong.pdb
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\obj\Debug\net6.0-windows\Classic Pong.genruntimeconfig.cache
+C:\Users\GER0020\Downloads\Year 9\Year 9 Introduction to Programming\Visual Basic Files\Classic Pong\Classic Pong\obj\Debug\net6.0-windows\ref\Classic Pong.dll
